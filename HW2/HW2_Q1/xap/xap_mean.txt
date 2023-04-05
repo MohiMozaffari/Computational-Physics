@@ -1,0 +1,3 @@
+the mean is 0.26163236696547776
+the variance is 0.8052368818424566
+the mean standard deviation is 0.008763082543433148

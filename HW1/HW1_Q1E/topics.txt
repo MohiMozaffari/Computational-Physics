@@ -1,0 +1,10 @@
+Solving coupled Differential Equations and Boundary Value Problems
+Chaotic phenomena
+Probability Distribution functions and transformations
+Correlation functions, Two-point correlation function
+Spectral analysis
+Monte Carlo simulation
+Basic topics for Molecular dynamics simulations
+Simulation by VPython
+Machine learning in Physics
+Topological Based Data Analysis
